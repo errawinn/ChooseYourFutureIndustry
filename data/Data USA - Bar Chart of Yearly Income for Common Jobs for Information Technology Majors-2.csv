@@ -1,0 +1,230 @@
+year,soc_name,soc,cip_name,cip,avg_wage,avg_wage_moe,num_ppl,num_ppl_moe,num_ppl_rca
+2015,"Software developers, applications & systems software","15113X","Computer and Information Sciences and Support Services","11",103011.0,2235.08,340605,11271.4,9.50379
+2015,"Computer programmers","151131","Computer and Information Sciences and Support Services","11",87464.0,2762.85,120747,7421.58,10.7871
+2015,"Miscellaneous managers","119XXX","Computer and Information Sciences and Support Services","11",125483.0,4607.12,92620,5704.44,1.08732
+2015,"Other Computer Occupations","151199","Computer and Information Sciences and Support Services","11",83247.4,4014.7,89949,6812.33,7.89174
+2015,"Computer & information systems managers","113021","Computer and Information Sciences and Support Services","11",117913.0,3889.61,89157,5338.58,5.76115
+2015,"Computer support specialists","151150","Computer and Information Sciences and Support Services","11",70392.1,3543.66,75318,5012.89,6.9407
+2015,"Computer systems analysts","151121","Computer and Information Sciences and Support Services","11",86740.9,3745.05,56121,4700.36,4.39928
+2015,"Network & computer systems administrators","151142","Computer and Information Sciences and Support Services","11",72028.4,3049.98,35715,4000.37,9.04273
+2015,"Management analysts","131111","Computer and Information Sciences and Support Services","11",108010.0,9544.35,34964,3993.85,1.73712
+2015,"Postsecondary teachers","251000","Computer and Information Sciences and Support Services","11",61751.9,6987.28,29483,3341.63,0.589183
+2015,"Computer network architects","151143","Computer and Information Sciences and Support Services","11",100714.0,5846.29,22530,2424.22,9.9723
+2015,"Chief executives & legislators","1110XX","Computer and Information Sciences and Support Services","11",190687.0,19954.7,22246,3074.14,0.752563
+2015,"Elementary & middle school teachers","252020","Computer and Information Sciences and Support Services","11",48118.6,3172.64,22171,2658.38,0.183225
+2015,"Web developers","151134","Computer and Information Sciences and Support Services","11",67515.8,4726.07,20629,2971.92,4.79104
+2015,"Firstline supervisors of retail sales workers","411011","Computer and Information Sciences and Support Services","11",74023.3,11409.1,18806,2827.22,0.738528
+2015,"Miscellaneous engineers, including nuclear engineers","1721YY","Computer and Information Sciences and Support Services","11",116826.0,8405.09,18242,2659.17,1.12935
+2015,"Information security analysts","151122","Computer and Information Sciences and Support Services","11",87324.2,7014.04,17707,3021.93,10.8438
+2015,"Database administrators","151141","Computer and Information Sciences and Support Services","11",90830.3,6504.48,17017,2363.67,5.58213
+2015,"Accountants & auditors","132011","Computer and Information Sciences and Support Services","11",72087.0,7411.56,16493,2747.05,0.310846
+2015,"Customer service representatives","434051","Computer and Information Sciences and Support Services","11",49580.7,6709.67,16112,2378.87,0.716268
+2015,"Firstline supervisors of nonretail sales workers","411012","Computer and Information Sciences and Support Services","11",117529.0,12126.5,15167,2776.69,0.859026
+2015,"Financial managers","113031","Computer and Information Sciences and Support Services","11",132758.0,18758.0,14721,2944.31,0.557251
+2015,"Computer, automated teller, & office machine repairers","492011","Computer and Information Sciences and Support Services","11",52142.5,7486.7,14619,3020.2,8.28524
+2015,"Firstline supervisors of office & administrative support workers","431011","Computer and Information Sciences and Support Services","11",72953.7,8492.34,14579,2407.64,0.871662
+2015,"Retail salespersons","412031","Computer and Information Sciences and Support Services","11",56292.7,15714.5,11944,2186.77,0.495183
+2015,"Marketing & sales managers","112020","Computer and Information Sciences and Support Services","11",122370.0,22390.9,11646,1990.33,0.497262
+2015,"General & operations managers","111021","Computer and Information Sciences and Support Services","11",90042.3,11762.5,10696,2014.89,0.726686
+2015,"Computer hardware engineers","172061","Computer and Information Sciences and Support Services","11",98950.2,11120.6,10151,2239.57,6.87917
+2015,"Secretaries & administrative assistants","436010","Computer and Information Sciences and Support Services","11",38336.5,4875.59,9955,1962.67,0.37471
+2015,"Sales representatives, wholesale & manufacturing","414010","Computer and Information Sciences and Support Services","11",101211.0,15314.7,9303,1629.62,0.39471
+2015,"Designers","271020","Computer and Information Sciences and Support Services","11",69384.1,10880.0,8802,1865.57,0.57534
+2015,"Registered nurses","291141","Computer and Information Sciences and Support Services","11",65588.2,7465.98,8796,1902.76,0.129767
+2015,"Sales representatives, services, all other","413099","Computer and Information Sciences and Support Services","11",129032.0,20972.5,8607,1747.58,0.761956
+2015,"Education administrators","119030","Computer and Information Sciences and Support Services","11",70293.4,9639.94,8377,1959.65,0.322968
+2015,"Lawyers, & judges, magistrates, & other judicial workers","2310XX","Computer and Information Sciences and Support Services","11",130468.0,15912.7,8167,1998.67,0.234344
+2015,"Architectural & engineering managers","119041","Computer and Information Sciences and Support Services","11",174847.0,16262.5,8042,1713.66,1.68678
+2015,"Business operations specialists, all other","131199","Computer and Information Sciences and Support Services","11",92708.2,16853.9,7719,1902.74,1.15528
+2015,"Operations research analysts","152031","Computer and Information Sciences and Support Services","11",91769.5,7710.38,7285,1804.82,2.01479
+2015,"Security guards & gaming surveillance officers","339030","Computer and Information Sciences and Support Services","11",45025.6,9792.06,6528,1939.84,1.26587
+2015,"Architects, except naval","171010","Computer and Information Sciences and Support Services","11",120973.0,12520.5,6269,1719.32,1.21688
+2015,"Office clerks, general","439061","Computer and Information Sciences and Support Services","11",33622.1,8531.89,6109,1914.25,0.590288
+2015,"Inspectors, testers, sorters, samplers, & weighers","519061","Computer and Information Sciences and Support Services","11",68645.5,8346.1,5862,1730.36,1.24305
+2015,"Electrical & electronics engineers","172070","Computer and Information Sciences and Support Services","11",103880.0,9881.83,5819,1808.61,0.945389
+2015,"Computer operators","439011","Computer and Information Sciences and Support Services","11",62364.9,12583.3,5813,1498.96,5.33522
+2015,"Driver/sales workers & truck drivers","533030","Computer and Information Sciences and Support Services","11",46798.7,9210.31,5803,1459.73,0.802089
+2015,"Food service managers","119051","Computer and Information Sciences and Support Services","11",60424.5,14711.8,5681,2212.57,0.737412
+2015,"Computer & information research scientists","151111","Computer and Information Sciences and Support Services","11",89464.1,12910.1,5583,1224.28,8.63744
+2015,"Human resources workers","131070","Computer and Information Sciences and Support Services","11",93505.7,39830.6,5547,1360.18,0.340273
+2015,"Secondary school teachers","252030","Computer and Information Sciences and Support Services","11",53602.8,8630.93,5431,1472.8,0.196519
+2015,"Other Physical Scientists","192099","Computer and Information Sciences and Support Services","11",83901.7,17842.1,5349,1811.96,0.66997
+2015,"Physicians & surgeons","291060","Computer and Information Sciences and Support Services","11",234584.0,45733.0,5245,1368.49,0.165317
+2015,"Other teachers & instructors","253000","Computer and Information Sciences and Support Services","11",58916.2,14323.5,5090,1609.63,0.368926
+2015,"Laborers & freight, stock, & material movers, hand","537062","Computer and Information Sciences and Support Services","11",28986.2,8939.61,4968,1536.65,1.13701
+2015,"Human resources managers","113121","Computer and Information Sciences and Support Services","11",129337.0,14721.6,4938,1069.8,0.571649
+2015,"Cashiers","412010","Computer and Information Sciences and Support Services","11",18831.1,4989.69,4911,1406.68,0.571131
+2015,"Firstline supervisors of production & operating workers","511011","Computer and Information Sciences and Support Services","11",89234.2,16971.7,4816,1424.53,0.885931
+2015,"Waiters & waitresses","353031","Computer and Information Sciences and Support Services","11",20562.5,3154.06,4678,1701.53,0.494858
+2015,"Stock clerks & order fillers","435081","Computer and Information Sciences and Support Services","11",24512.2,5770.86,4427,1648.2,0.877074
+2015,"Mechanical engineers","172141","Computer and Information Sciences and Support Services","11",88009.0,16619.8,4406,1378.37,0.634714
+2015,"Miscellaneous office & administrative support workers, including desktop publishers","439XXX","Computer and Information Sciences and Support Services","11",36382.0,5400.99,4398,1118.65,0.529544
+2015,"Medical & health services managers","119111","Computer and Information Sciences and Support Services","11",113841.0,23787.9,4340,1188.86,0.291243
+2015,"Financial analysts","132051","Computer and Information Sciences and Support Services","11",125057.0,32346.1,4340,1149.1,0.602372
+2015,"Data entry keyers","439021","Computer and Information Sciences and Support Services","11",41409.0,7762.04,4212,1101.51,1.49123
+2015,"Construction managers","119021","Computer and Information Sciences and Support Services","11",61452.4,16502.6,4165,1797.27,0.585156
+2015,"Teacher assistants","259041","Computer and Information Sciences and Support Services","11",22086.2,7349.9,4159,1364.43,0.458016
+2015,"Personal financial advisors","132052","Computer and Information Sciences and Support Services","11",128309.0,34235.4,4120,1179.74,0.425135
+2015,"Counselors","211010","Computer and Information Sciences and Support Services","11",46255.9,8775.55,3982,1359.05,0.187692
+2015,"Aerospace engineers","172011","Computer and Information Sciences and Support Services","11",98654.0,7592.89,3804,1198.69,1.03056
+2015,"Police officers","333050","Computer and Information Sciences and Support Services","11",67652.5,10832.5,3739,1182.71,0.370695
+2015,"Industrial engineers, including health & safety","172110","Computer and Information Sciences and Support Services","11",89359.1,12157.1,3699,1251.88,0.751148
+2015,"Social workers","211020","Computer and Information Sciences and Support Services","11",41525.3,7313.03,3643,1110.63,0.156964
+2015,"Real estate brokers & sales agents","419020","Computer and Information Sciences and Support Services","11",75364.8,19565.4,3575,1132.84,0.32405
+2015,"Maintenance & repair workers, general","499071","Computer and Information Sciences and Support Services","11",48116.0,6850.1,3435,1599.88,2.56985
+2015,"Bookkeeping, accounting, & auditing clerks","433031","Computer and Information Sciences and Support Services","11",36305.0,8846.64,3392,1129.87,0.413253
+2015,"Janitors & building cleaners","37201X","Computer and Information Sciences and Support Services","11",24823.7,5045.7,3318,1193.09,0.71811
+2015,"Market research analysts & marketing specialists","131161","Computer and Information Sciences and Support Services","11",72672.2,15809.7,3288,1232.14,0.41246
+2015,"Civil engineers","172051","Computer and Information Sciences and Support Services","11",84931.4,14832.6,3270,1070.19,0.344489
+2015,"Claims adjusters, appraisers, examiners, & investigators","131030","Computer and Information Sciences and Support Services","11",61625.6,9522.46,3189,921.567,0.605854
+2015,"Other Sales Workers","419099","Computer and Information Sciences and Support Services","11",140042.0,62104.7,3183,1382.73,0.725098
+2015,"Insurance sales agents","413021","Computer and Information Sciences and Support Services","11",70225.1,13926.1,3182,1055.98,0.403987
+2015,"Cooks","352010","Computer and Information Sciences and Support Services","11",17343.6,3798.28,3146,1278.81,0.779568
+2015,"Clergy","212011","Computer and Information Sciences and Support Services","11",43104.0,8097.66,3145,1080.26,0.278844
+2015,"Engineering technicians, except drafters","173020","Computer and Information Sciences and Support Services","11",60356.7,12106.0,3052,991.583,1.14145
+2015,"Property, real estate, & community association managers","119141","Computer and Information Sciences and Support Services","11",75194.4,15231.9,3033,964.243,0.376415
+2015,"Nursing, psychiatric, & home health aides","311010","Computer and Information Sciences and Support Services","11",30378.3,7395.17,2905,1066.12,0.418808
+2015,"Industrial production managers","113051","Computer and Information Sciences and Support Services","11",100030.0,9789.28,2848,842.632,0.73774
+2015,"Military, rank not specified","559830","Computer and Information Sciences and Support Services","11",58963.4,8347.81,2834,1218.5,1.26725
+2015,"Miscellaneous mathematical science occupations, including mathematicians & statisticians","1520XX","Computer and Information Sciences and Support Services","11",126589.0,31687.4,2798,1041.21,1.59497
+2015,"Paralegals & legal assistants","232011","Computer and Information Sciences and Support Services","11",59192.2,6623.83,2665,1254.26,0.407763
+2015,"Miscellaneous production workers, including semiconductor processors","5191XX","Computer and Information Sciences and Support Services","11",74099.6,38648.8,2642,1331.13,0.913792
+2015,"Receptionists & information clerks","434171","Computer and Information Sciences and Support Services","11",38921.5,7230.57,2586,1044.54,0.410419
+2015,"Firstline supervisors of mechanics, installers, & repairers","491011","Computer and Information Sciences and Support Services","11",88150.2,30806.3,2503,1088.28,1.78168
+2015,"Compliance officers","131041","Computer and Information Sciences and Support Services","11",74172.5,19059.5,2486,973.436,0.476129
+2015,"Aircraft pilots & flight engineers","532010","Computer and Information Sciences and Support Services","11",129224.0,25682.4,2482,1162.68,0.60066
+2015,"Construction laborers","472061","Computer and Information Sciences and Support Services","11",28182.5,12841.1,2468,1114.79,0.975839
+2015,"Purchasing agents, except wholesale, retail, & farm products","131023","Computer and Information Sciences and Support Services","11",72136.0,12870.7,2424,999.766,0.522743
+2015,"Securities, commodities, & financial services sales agents","413031","Computer and Information Sciences and Support Services","11",217228.0,91977.2,2340,732.082,0.406363
+2015,"Training & development specialists","131151","Computer and Information Sciences and Support Services","11",84011.1,11964.1,2275,936.384,0.768973
+2015,"Taxi drivers & chauffeurs","533041","Computer and Information Sciences and Support Services","11",30302.1,8108.55,2261,1082.75,1.10337
+2015,"Social & community service managers","119151","Computer and Information Sciences and Support Services","11",68179.8,12777.1,2199,1223.68,0.236511
+2015,"Pharmacists","291051","Computer and Information Sciences and Support Services","11",100823.0,19076.7,2192,1030.49,0.21225
+2015,"Military officer special & tactical operations leaders","551010","Computer and Information Sciences and Support Services","11",86239.9,13848.1,2190,1236.19,2.21567
+2015,"Purchasing managers","113061","Computer and Information Sciences and Support Services","11",100570.0,29075.5,2185,927.868,0.498412
+2015,"Other financial clerks","433099","Computer and Information Sciences and Support Services","11",94291.9,31667.5,2178,940.189,1.00394
+2015,"Sales engineers","419031","Computer and Information Sciences and Support Services","11",125817.0,9761.2,2170,1076.73,2.33468
+2015,"Writers & authors","273043","Computer and Information Sciences and Support Services","11",52942.6,22604.8,2098,937.337,0.428488
+2015,"Grounds maintenance workers","373010","Computer and Information Sciences and Support Services","11",17528.6,6450.01,2090,1096.03,0.896409
+2015,"Electricians","472111","Computer and Information Sciences and Support Services","11",68913.7,33781.9,2028,905.942,1.08853
+2015,"Production, planning, & expediting clerks","435061","Computer and Information Sciences and Support Services","11",39893.1,8187.42,1971,1210.21,0.498494
+2015,"Radio & telecommunications equipment installers & repairers","492020","Computer and Information Sciences and Support Services","11",52075.1,10537.7,1929,835.244,2.25761
+2015,"Information & record clerks, all other","434199","Computer and Information Sciences and Support Services","11",90740.4,29238.7,1887,947.533,1.73226
+2015,"Logisticians","131081","Computer and Information Sciences and Support Services","11",78012.5,19654.4,1851,797.365,0.78811
+2015,"Private detectives & investigators","339021","Computer and Information Sciences and Support Services","11",82188.6,20116.9,1838,885.421,1.01642
+2015,"Diagnostic related technologists & technicians","292030","Computer and Information Sciences and Support Services","11",61723.8,17668.0,1816,865.021,0.460784
+2015,"Dispatchers","435030","Computer and Information Sciences and Support Services","11",58494.1,18860.7,1811,1063.82,1.12171
+2015,"Medical assistants","319092","Computer and Information Sciences and Support Services","11",35699.5,6736.23,1808,1009.12,0.849491
+2015,"Athletes, coaches, umpires, & related workers","272020","Computer and Information Sciences and Support Services","11",44191.3,25186.3,1779,871.565,0.416995
+2015,"Health practitioner support technologists & technicians","292050","Computer and Information Sciences and Support Services","11",29566.3,7019.21,1774,871.378,0.373809
+2015,"Personal care aides","399021","Computer and Information Sciences and Support Services","11",19064.2,6741.96,1764,723.499,0.309855
+2015,"Artists & related workers","271010","Computer and Information Sciences and Support Services","11",53646.0,12396.7,1758,746.975,0.61987
+2015,"Credit counselors & loan officers","132070","Computer and Information Sciences and Support Services","11",74758.7,15206.5,1736,924.832,0.306665
+2015,"Advertising sales agents","413011","Computer and Information Sciences and Support Services","11",102590.0,26249.5,1682,732.292,0.473893
+2015,"Public relations & fundraising managers","112031","Computer and Information Sciences and Support Services","11",77905.3,38350.2,1665,845.298,0.898054
+2015,"Eligibility interviewers, government programs","434061","Computer and Information Sciences and Support Services","11",37346.2,13119.1,1638,1021.14,1.38795
+2015,"Shipping, receiving, & traffic clerks","435071","Computer and Information Sciences and Support Services","11",24724.8,4922.26,1615,1120.62,0.902237
+2015,"Chefs & head cooks","351011","Computer and Information Sciences and Support Services","11",27977.5,7804.69,1611,874.701,0.818725
+2015,"Firefighters","332011","Computer and Information Sciences and Support Services","11",83679.8,14870.8,1611,1015.14,0.728974
+2015,"Other education, training, & library workers","2590XX","Computer and Information Sciences and Support Services","11",54175.1,13997.4,1573,883.731,0.521664
+2015,"Editors","273041","Computer and Information Sciences and Support Services","11",51921.6,19753.6,1560,728.318,0.325902
+2015,"Bus drivers","533020","Computer and Information Sciences and Support Services","11",49521.5,19195.3,1555,858.728,0.759974
+2015,"Pipelayers, plumbers, pipefitters, & steamfitters","472150","Computer and Information Sciences and Support Services","11",42631.7,34849.6,1517,913.994,1.80653
+2015,"Insurance claims & policy processing clerks","439041","Computer and Information Sciences and Support Services","11",55111.2,39081.2,1517,874.157,0.389012
+2015,"Firstline supervisors of construction trades & extraction workers","471011","Computer and Information Sciences and Support Services","11",90673.4,14364.1,1503,944.761,0.554809
+2015,"Librarians","254021","Computer and Information Sciences and Support Services","11",55889.7,11715.7,1493,785.111,0.297281
+2015,"Firstline enlisted military supervisors","552010","Computer and Information Sciences and Support Services","11",70410.8,14224.2,1490,736.169,1.24891
+2015,"Food preparation workers","352021","Computer and Information Sciences and Support Services","11",11355.8,4099.8,1484,666.237,0.597692
+2015,"Clinical laboratory technologists & technicians","292010","Computer and Information Sciences and Support Services","11",58560.1,22034.5,1482,825.108,0.259115
+2015,"Lodging managers","119081","Computer and Information Sciences and Support Services","11",77714.6,46128.1,1463,905.563,0.724256
+2015,"Firstline supervisors of food preparation & serving workers","351012","Computer and Information Sciences and Support Services","11",37043.8,10091.8,1460,705.928,0.580784
+2015,"Miscellaneous legal support workers","232090","Computer and Information Sciences and Support Services","11",99423.6,59939.5,1456,772.493,0.555459
+2015,"Technical writers","273042","Computer and Information Sciences and Support Services","11",94128.4,38090.2,1456,631.664,1.01238
+2015,"Miscellaneous agricultural workers, including animal breeders","4520XX","Computer and Information Sciences and Support Services","11",10790.9,6086.27,1455,1444.79,0.89632
+2015,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians","4990XX","Computer and Information Sciences and Support Services","11",59770.1,16936.2,1432,1245.75,1.70672
+2015,"Detectives & criminal investigators","333021","Computer and Information Sciences and Support Services","11",93869.0,13241.0,1379,653.655,0.535093
+2015,"Transportation, storage, & distribution managers","113071","Computer and Information Sciences and Support Services","11",76036.1,30155.2,1346,697.207,0.566694
+2015,"Couriers & messengers","435021","Computer and Information Sciences and Support Services","11",72630.6,48149.3,1327,960.906,1.33478
+2015,"Childcare workers","399011","Computer and Information Sciences and Support Services","11",17723.4,6867.73,1302,644.797,0.230892
+2015,"Miscellaneous life, physical, & social science technicians, including social science research assistants","1940YY","Computer and Information Sciences and Support Services","11",47338.7,21663.2,1287,682.688,0.361603
+2015,"Bus & truck mechanics & diesel engine specialists","493031","Computer and Information Sciences and Support Services","11",51997.4,9533.99,1239,932.789,3.35135
+2015,"File clerks","434071","Computer and Information Sciences and Support Services","11",51701.7,22868.3,1207,609.296,0.682613
+2015,"Bartenders","353011","Computer and Information Sciences and Support Services","11",16390.0,7711.69,1187,723.912,0.400013
+2015,"Miscellaneous assemblers & fabricators","512090","Computer and Information Sciences and Support Services","11",40140.7,12939.9,1166,643.901,0.523615
+2015,"Miscellaneous media & communication workers","273090","Computer and Information Sciences and Support Services","11",32233.1,9276.57,1159,644.69,0.766923
+2015,"Photographic process workers & processing machine operators","519151","Computer and Information Sciences and Support Services","11",69655.7,14242.5,1142,755.712,4.14634
+2015,"Advertising & promotions managers","112011","Computer and Information Sciences and Support Services","11",49385.3,26030.8,1141,837.179,0.901315
+2015,"Insurance underwriters","132053","Computer and Information Sciences and Support Services","11",110032.0,45103.7,1132,582.937,0.45836
+2015,"Maids & housekeeping cleaners","372012","Computer and Information Sciences and Support Services","11",26603.6,9243.06,1123,783.777,0.558424
+2015,"Payroll & timekeeping clerks","433051","Computer and Information Sciences and Support Services","11",66571.8,32062.6,1103,675.666,0.872764
+2015,"Gaming services workers","393010","Computer and Information Sciences and Support Services","11",59706.3,19522.9,1073,853.121,1.91425
+2015,"Drafters","173010","Computer and Information Sciences and Support Services","11",82222.0,22291.9,1069,523.327,0.745422
+2015,"Bailiffs, correctional officers, & jailers","333010","Computer and Information Sciences and Support Services","11",63113.7,14067.5,1037,696.732,0.407591
+2015,"Medical records & health information technicians","292071","Computer and Information Sciences and Support Services","11",57272.7,11689.0,1033,656.73,0.696309
+2015,"Supervisors of transportation & material moving workers","531000","Computer and Information Sciences and Support Services","11",62138.8,17807.1,1028,708.093,0.673082
+2015,"Carpenters","472031","Computer and Information Sciences and Support Services","11",37373.6,18637.8,1011,750.539,0.519044
+2015,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other","2740XX","Computer and Information Sciences and Support Services","11",37938.4,23877.0,1008,643.324,0.846855
+2015,"Telecommunications line installers & repairers","499052","Computer and Information Sciences and Support Services","11",52271.6,12379.6,1002,664.609,2.15821
+2015,"Television, video, & motion picture camera operators & editors","274030","Computer and Information Sciences and Support Services","11",41784.4,27915.8,996,858.121,0.927281
+2015,"Fundraisers","131131","Computer and Information Sciences and Support Services","11",65869.4,10732.0,992,668.55,0.382811
+2015,"Tellers","433071","Computer and Information Sciences and Support Services","11",27202.3,5876.08,990,643.942,0.533767
+2015,"Materials engineers","172131","Computer and Information Sciences and Support Services","11",96938.4,28955.5,988,702.491,0.858085
+2015,"Preschool & kindergarten teachers","252010","Computer and Information Sciences and Support Services","11",20061.5,10966.3,945,585.237,0.0987486
+2015,"Agents & business managers of artists, performers, & athletes","131011","Computer and Information Sciences and Support Services","11",40209.9,16739.2,929,655.94,1.24505
+2015,"Producers & directors","272012","Computer and Information Sciences and Support Services","11",97705.0,27825.2,918,411.561,0.244648
+2015,"Medical scientists, & life scientists, all other","1910XX","Computer and Information Sciences and Support Services","11",64030.2,16413.3,909,587.356,0.166501
+2015,"Photographers","274021","Computer and Information Sciences and Support Services","11",14563.8,4828.59,886,591.833,0.509476
+2015,"Postal service mail carriers","435052","Computer and Information Sciences and Support Services","11",47807.5,7918.99,883,463.243,0.53603
+2015,"Dentists","291020","Computer and Information Sciences and Support Services","11",105871.0,31333.7,882,728.806,0.179506
+2015,"Respiratory therapists","291126","Computer and Information Sciences and Support Services","11",68537.7,15758.9,880,651.307,0.740071
+2015,"Training & development managers","113131","Computer and Information Sciences and Support Services","11",76737.4,20200.6,872,524.396,0.595455
+2015,"Firstline supervisors of housekeeping & janitorial workers","371011","Computer and Information Sciences and Support Services","11",65864.5,47509.0,859,528.588,0.870653
+2015,"Other financial specialists","132099","Computer and Information Sciences and Support Services","11",70656.5,15280.5,833,472.234,0.657272
+2015,"Tax preparers","132082","Computer and Information Sciences and Support Services","11",47631.9,29305.1,832,528.102,0.486178
+2015,"Flight attendants","532031","Computer and Information Sciences and Support Services","11",41547.9,20002.2,828,538.864,0.52622
+2015,"Meeting, convention, & event planners","131121","Computer and Information Sciences and Support Services","11",50161.4,15420.2,816,590.34,0.308221
+2015,"Recreation & fitness workers","399030","Computer and Information Sciences and Support Services","11",37456.9,13937.5,800,493.277,0.142627
+2015,"Automotive service technicians & mechanics","493023","Computer and Information Sciences and Support Services","11",35542.4,6540.53,797,511.439,0.753384
+2015,"Heating, air conditioning, & refrigeration mechanics & installers","499021","Computer and Information Sciences and Support Services","11",24911.0,14433.1,789,466.512,1.26481
+2015,"Other healthcare practitioners & technical Occupations","299000","Computer and Information Sciences and Support Services","11",49441.7,13589.8,783,520.83,0.261783
+2015,"Word processors & typists","439022","Computer and Information Sciences and Support Services","11",34034.8,14869.9,783,488.07,0.343883
+2015,"Actuaries","152011","Computer and Information Sciences and Support Services","11",112982.0,60489.8,768,502.354,0.798305
+2015,"Massage therapists","319011","Computer and Information Sciences and Support Services","11",42703.8,27989.9,767,541.344,0.732571
+2015,"Social & human service assistants","211093","Computer and Information Sciences and Support Services","11",40507.0,13351.2,759,477.322,0.252575
+2015,"Packers & packagers, hand","537064","Computer and Information Sciences and Support Services","11",23405.1,15537.9,758,412.606,1.08667
+2015,"Bill & account collectors","433011","Computer and Information Sciences and Support Services","11",34191.6,7900.41,758,584.727,0.720943
+2015,"News analysts, reporters & correspondents","273020","Computer and Information Sciences and Support Services","11",50920.3,20845.5,743,507.504,0.346941
+2015,"Budget analysts","132031","Computer and Information Sciences and Support Services","11",68375.5,23654.6,733,473.939,0.565663
+2015,"Transportation security screeners","339093","Computer and Information Sciences and Support Services","11",40476.5,8260.06,723,561.523,2.18187
+2015,"Billing & posting clerks","433021","Computer and Information Sciences and Support Services","11",54041.7,26440.1,717,509.521,0.218018
+2015,"Industrial & refractory machinery mechanics","49904X","Computer and Information Sciences and Support Services","11",60855.1,22182.5,708,458.525,0.870152
+2015,"Physician assistants","291071","Computer and Information Sciences and Support Services","11",97575.8,19328.2,707,486.587,0.223059
+2015,"Special education teachers","252050","Computer and Information Sciences and Support Services","11",57909.9,15397.1,707,485.568,0.0895089
+2015,"Loan interviewers & clerks","434131","Computer and Information Sciences and Support Services","11",60260.5,14132.8,705,562.15,0.620342
+2015,"Hairdressers, hairstylists, & cosmetologists","395012","Computer and Information Sciences and Support Services","11",13334.2,7448.9,702,488.404,0.521258
+2015,"Cleaners of vehicles & equipment","537061","Computer and Information Sciences and Support Services","11",26569.2,16281.7,687,459.894,1.43969
+2015,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers","371012","Computer and Information Sciences and Support Services","11",46850.2,25760.7,639,532.362,0.676993
+2015,"Stationary engineers & boiler operators","518021","Computer and Information Sciences and Support Services","11",81469.2,16214.4,636,670.585,1.47652
+2015,"Hotel, motel, & resort desk clerks","434081","Computer and Information Sciences and Support Services","11",19589.3,12144.4,633,517.325,0.627221
+2015,"Administrative services managers","113011","Computer and Information Sciences and Support Services","11",69543.1,19036.7,616,468.66,0.283124
+2015,"Aircraft mechanics & service technicians","493011","Computer and Information Sciences and Support Services","11",43551.7,24057.2,614,466.203,0.833792
+2015,"Coin, vending, & amusement machine servicers & repairers","499091","Computer and Information Sciences and Support Services","11",36144.2,15033.7,612,393.858,4.71938
+2015,"Industrial truck & tractor operators","537051","Computer and Information Sciences and Support Services","11",45657.3,14996.9,612,508.991,0.931804
+2015,"Nonfarm animal caretakers","392021","Computer and Information Sciences and Support Services","11",25195.6,9581.61,596,411.277,0.536253
+2015,"Public relations specialists","273031","Computer and Information Sciences and Support Services","11",95067.4,28004.3,551,384.879,0.149386
+2015,"Counter & rental clerks","412021","Computer and Information Sciences and Support Services","11",19626.7,2992.02,534,454.506,1.11375
+2015,"Postal service clerks","435051","Computer and Information Sciences and Support Services","11",43117.6,10075.9,519,403.367,0.726388
+2015,"Chemists & materials scientists","192030","Computer and Information Sciences and Support Services","11",83778.2,18612.1,516,425.396,0.175099
+2015,"Library assistants, clerical","434121","Computer and Information Sciences and Support Services","11",22061.1,5291.31,515,421.768,0.373214
+2015,"Directors, religious activities & education","212021","Computer and Information Sciences and Support Services","11",96329.5,60652.4,483,432.982,0.274428
+2015,"Emergency medical technicians & paramedics","292041","Computer and Information Sciences and Support Services","11",48448.4,14815.7,479,329.733,0.334044
+2015,"Physical therapists","291123","Computer and Information Sciences and Support Services","11",59337.6,14632.2,472,343.292,0.0604215
+2015,"Cost estimators","131051","Computer and Information Sciences and Support Services","11",62691.0,18357.7,456,410.632,0.275523
+2015,"Weighers, measurers, checkers, & samplers, recordkeeping","435111","Computer and Information Sciences and Support Services","11",29490.5,12373.9,454,440.923,0.991108
+2015,"Farmers, ranchers, & other agricultural managers","119013","Computer and Information Sciences and Support Services","11",69146.5,29271.1,439,317.414,0.166612
+2015,"Machinists","514041","Computer and Information Sciences and Support Services","11",55090.1,9546.9,437,330.969,0.82749
+2015,"Environmental scientists & geoscientists","192040","Computer and Information Sciences and Support Services","11",52141.7,13303.3,422,337.623,0.168505
+2015,"Miscellaneous social scientists, including survey researchers & sociologists","1930XX","Computer and Information Sciences and Support Services","11",82086.7,16200.1,413,306.687,0.374291
+2015,"Correspondence clerks & order clerks","434XXX","Computer and Information Sciences and Support Services","11",49457.6,26356.5,397,317.119,0.49089
+2015,"Switchboard operators, including answering service","432011","Computer and Information Sciences and Support Services","11",24562.0,16465.2,339,296.318,2.82257
+2015,"Military enlisted tactical operations & air/weapons specialists & crew members","553010","Computer and Information Sciences and Support Services","11",59070.0,15836.4,306,273.333,0.421437
